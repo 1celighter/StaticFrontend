@@ -563,8 +563,8 @@
     border-radius: 22px;
   }
   .WhiteBorder1{
-    height: 380px;
-    width: 400px;
+    height: 400px;
+    width: 373px;
     border:1px;
     border-radius: 22px;
     background-color: white;
@@ -574,14 +574,14 @@
   }
   .GroupFristPic{
     height: 160px;
-    width:337.06px;
+    width:319px;
     border-radius: 22px;
     padding-top:26px;
     padding-right:26.5px;
     position: absolute;
     z-index: 10;
     top: 810px;
-    left:435px;
+    left:428px;
   }
   .GroupFristMainText{
     font-family: "Poppins", sans-serif;
@@ -594,7 +594,7 @@
     padding-left: 0.1px;
     position: absolute;
     top: 980px;
-    left: 442px;
+    left: 435px;
   }
   .GroupFristSecondaryText{
     font-family: "Poppins", sans-serif;
@@ -607,7 +607,7 @@
     padding-left: 0.1px;
     position: absolute;
     top:1065px;
-    left:442px;
+    left:435px;
   }
   .GroupFristData{
     font-family: "Poppins", sans-serif;
@@ -618,16 +618,101 @@
     color: hsla(217, 21%, 7%, 1);
     position: absolute;
     top: 1160px;
-    left: 442px;
+    left: 435px;
   }
   .GroupFristEllipse{
-    width: 10px;
-    height: 10px;
-    font-size: 10px;
-    color: black !important;
+    height: 5px;
+    width: 5px;
     position: absolute;
     top: 1160px;
-    left: 590px;
+    left: 560px;
+  }
+  .GroupFristDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1160px;
+    left: 580px;
+  }
+  .WhiteBorder2{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 800px;
+    left:800px;
+  }
+  .GroupSecondMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 980px;
+    left: 822px;
+  }
+  .GroupSecondPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 810px;
+    left: 827px;
+  }
+  .GroupSecondSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1040px;
+    left: 825px;
+  }
+  .GroupSecondaryData{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1160px;
+    left: 825px;
+  }
+  .GroupSecondEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 1160px;
+    left: 950px;
+  }
+  .GroupSecondDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1160px;
+    left: 972px;
   }
   body{
   background-color:hsla(217,16%,16%,1);
