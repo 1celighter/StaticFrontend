@@ -714,6 +714,158 @@
     top: 1160px;
     left: 972px;
   }
+  .WhiteBorder3{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 800px;
+    left: 1200px; 
+  }
+  .GroupThirdPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 810px;
+    left: 1227.6px;
+  }
+  .GroupThirdMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 980px;
+    left: 1233px;
+  }
+  .GroupThirdSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1040px;
+    left: 1233px;
+  }
+  .GroupThirdData{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1160px;
+    left:1233px;
+  }
+  .GroupdThirdEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 1160px;
+    left: 1360px;
+  }
+  .GroupThirdDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1160px;
+    left: 1385px;
+  }
+  .WhiteBorder4{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1240px;
+    left:401px;
+  }
+  .GroupFourthPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1250px;
+    left:428px;
+  }
+  .GroupFourthMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1420px;
+    left: 435px;
+  }
+  .GroupFourthSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top:1505px;
+    left:435px;
+  }
+  .GroupFourthData{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left: 435px;
+  }
+  .GroupFourthEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 1607px;
+    left: 560px;
+  }
+  .GroupFourthDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left: 580px;
+  }
   body{
   background-color:hsla(217,16%,16%,1);
   }
