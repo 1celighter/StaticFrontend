@@ -609,7 +609,7 @@
     top:1065px;
     left:435px;
   }
-  .GroupFristData{
+  .GroupFristDate{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -685,7 +685,7 @@
     top: 1040px;
     left: 825px;
   }
-  .GroupSecondaryData{
+  .GroupSecondaryDate{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -761,7 +761,7 @@
     top: 1040px;
     left: 1233px;
   }
-  .GroupThirdData{
+  .GroupThirdDate{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -837,7 +837,7 @@
     top:1505px;
     left:435px;
   }
-  .GroupFourthData{
+  .GroupFourthDate{
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -865,6 +865,159 @@
     position: absolute;
     top: 1605px;
     left: 580px;
+  }
+  .WhiteBorder5{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1240px;
+    left:800px;
+  }
+  .GroupFifthPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1250px;
+    left: 827px;
+  }
+  .GroupFifthMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1420px;
+    left: 828px;
+  }
+  .GroupFifthSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top:1505px;
+    left: 828px;
+  }
+  .GroupFifthDate{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left: 825px;
+  }
+  .GroupFifthEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 1607px;
+    left: 950px;
+  }
+  .GroupFifthDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left: 972px;
+  }
+  .WhiteBorder6{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1240px;
+    left: 1200px;
+  }
+  .GroupSixthPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    scale:crop;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1250px;
+    left: 1227.6px;
+  }
+  .GroupSixthMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1420px;
+    left: 1233px;
+  }
+  .GroupSixthSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1505px;
+    left: 1233px;
+  }
+  .GroupSixthDate{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left:1233px;
+  }
+  .GroupSixthEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 1607px;
+    left: 1360px;
+  }
+  .GroupSixthDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 1605px;
+    left: 1385px;
   }
   body{
   background-color:hsla(217,16%,16%,1);
