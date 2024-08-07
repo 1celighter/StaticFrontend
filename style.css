@@ -1019,6 +1019,234 @@
     top: 1605px;
     left: 1385px;
   }
+  .WhiteBorder7{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1680px;
+    left:401px;
+  }
+  .GroupSeventhPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1690px;
+    left: 428px;
+  }
+  .GroupSeventhMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1860px;
+    left: 435px;
+  }
+  .GroupSeventhSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top:1945px;
+    left:435px;
+  }
+  .GroupSeventhDate{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left: 435px;
+  }
+  .GroupSeventhEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 2045px;
+    left: 560px;
+  }
+  .GroupSeventhDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left: 580px;
+  }
+  .WhiteBorder8{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1680px;
+    left:800px;
+  }
+  .GroupEighthPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1690px;
+    left: 827px;
+  }
+  .GroupEighthMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1860px;
+    left: 828px;
+  }
+  .GroupEighthSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top:1945px;
+    left: 828px;
+  }
+  .GroupEighthDate{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left: 825px;
+  }
+  .GroupEighthEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 2045px;
+    left: 950px;
+  }
+  .GroupEighthDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left: 972px;
+  }
+  .WhiteBorder9{
+    height: 400px;
+    width: 373px;
+    border:1px;
+    border-radius: 22px;
+    background-color: white;
+    position: absolute;
+    top: 1680px;
+    left:1200px;
+  }
+  .GroupNinthPic{
+    height: 160px;
+    width:319px;
+    border-radius: 22px;
+    padding-top:26px;
+    padding-right:26.5px;
+    position: absolute;
+    z-index: 10;
+    top: 1690px;
+    left: 1227.6px;
+  }
+  .GroupNinthMainText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 28.5px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top: 33px;
+    padding-left: 0.1px;
+    position: absolute;
+    top: 1860px;
+    left: 1233px;
+  }
+  .GroupNinthSecondaryText{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    padding-top:14px;
+    padding-left: 0.1px;
+    position: absolute;
+    top:1945px;
+    left: 1233px;
+  }
+  .GroupNinthDate{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left:1233px;
+  }
+  .GroupNinthEllipse{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    top: 2045px;
+    left: 1360px;
+  }
+  .GroupNinthDevOps{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: hsla(217, 21%, 7%, 1);
+    position: absolute;
+    top: 2045px;
+    left: 1385px;
+  }
   body{
   background-color:hsla(217,16%,16%,1);
   }
