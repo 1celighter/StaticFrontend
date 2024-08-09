@@ -1247,6 +1247,131 @@
     top: 2045px;
     left: 1385px;
   }
+
+  .PaginationNumbOne{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color:hsla(0, 0%, 56%, 1);
+    font-size: 30px;
+    line-height: 35px;
+    align-content: center;
+    position: absolute;
+    top: 2200px;
+    left: 910px;
+  }
+  .PaginationNumbTwo{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 30px;
+    line-height: 34px;
+    color: hsla(0, 100%, 73%, 1);
+    position: absolute;
+    top: 2200px;
+    left: 950px;
+  }
+  .PaginationNumbThree{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 30px;
+    line-height: 35px;
+    align-content: center;
+    position: absolute;
+    top: 2200px;
+    left: 990px;
+  }
+  .PaginationNumbFour{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 30px;
+    line-height: 35px;
+    align-content: center;
+    position: absolute;
+    top: 2200px;
+    left: 1030px;
+  }
+  .PaginationNumbFive{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 30px;
+    line-height: 35px;
+    align-content: center;
+    position: absolute;
+    top: 2200px;
+    left: 1070px;
+  }
+  .Previous{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 28px;
+    line-height: 35px;
+    position: absolute;
+    top: 2200px;
+    left: 745px;
+  }
+  .PaginationNext{
+    font-family: "Recursive", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+    "slnt" 0,
+    "CASL" 0,
+    "CRSV" 1,
+    "MONO" 0;
+    color: hsla(0, 0%, 56%, 1);
+    font-size: 28px;
+    line-height: 35px;
+    position: absolute;
+    top: 2200px;
+    left: 1130px;
+  }
   body{
   background-color:hsla(217,16%,16%,1);
   }
